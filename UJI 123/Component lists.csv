@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Digit1, Digit2, Digit3",3,"Cathode 7 Segment Display"
+"R1, R2, R3",3,"50 Ω Resistor"
+"S1",1," Slideswitch"
