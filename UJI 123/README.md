@@ -1,5 +1,5 @@
-Displays the characters "TEST" and "123" using 3 7-segment common cathodes.
-The characters "TEST" and "123" are displayed alternately for 3 seconds each.
+Displays the characters "UJI" and "123" using 3 7-segment common cathodes.
+The characters "UJI" and "123" are displayed alternately for 3 seconds each.
 There is a switch to set the character change pause, which is a 1 second pause or no pause.
 When paused, all 7-segments will be turned off in that pause.
 
